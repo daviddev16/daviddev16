@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on _SigmaModLoader_ and _Scultphy_. [private for a while]
+- 🔭 I’m currently working on _SigmaModLoader (for Unity)_ and _Scultphy_. [private for a while]
 - ⚡ I’m from Brazil, Rio de Janeiro.
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/daviiiid16_/), [Twitter](https://twitter.com/_daviid0).
