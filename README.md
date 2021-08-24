@@ -1,8 +1,6 @@
 #### Hi there 👋 
 
-- 📫 Contacts :
-
-→ [Email](mailto:davidduartepinheiro@gmail.com) → [Discord](Kernel#0808)
+📫 Contacts : [Email](mailto:davidduartepinheiro@gmail.com) → [Discord](Kernel#0808)
 
 #### Techs
 
