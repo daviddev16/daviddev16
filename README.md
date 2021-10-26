@@ -22,8 +22,11 @@
 ![Spacer](https://img.shields.io/badge/%7C-black)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ##
-### Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/daviddev16/">
+  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/daviddev16/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=dracula" />
+</a>
 
 
