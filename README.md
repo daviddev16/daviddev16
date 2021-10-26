@@ -1,11 +1,31 @@
-#### Hi there 👋 
+## Hi there 👋
 
-📫 Contacts : [Email](mailto:davidduartepinheiro@gmail.com) | [Discord](https://discordapp.com/users/339978701297156098)
+- Currently working on _MusicBox_, which is a discord bot for music purpose. 
+- Using _p5.js_ framework for math visualization and fun 😈.
+- Also developing _games_ or _math visualization_ with Unity/CSharp
 
-#### Languages
+#### _Known or studying_: Frameworks - Languages - IDEs - Editors
 
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-Sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFBF00?style=flat&logo=javascript&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+![Spacer](https://img.shields.io/badge/%7C-black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Spacer](https://img.shields.io/badge/%7C-black)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Spacer](https://img.shields.io/badge/%7C-black)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+##
+### Github Status
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=dracula)
+##
+### Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=radical)
+
