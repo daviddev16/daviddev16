@@ -24,8 +24,6 @@
 ##
 ### Github Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=dracula)
-##
-### Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
