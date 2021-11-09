@@ -26,7 +26,7 @@
   <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/daviddev16/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=dracula " />
 </a>
 
 
