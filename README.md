@@ -23,10 +23,10 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ##
 <a href="https://github.com/daviddev16/">
-  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=dracula" />
+  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby" />
 </a>
 <a href="https://github.com/daviddev16/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=dracula " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=great-gatsby" />
 </a>
 
 
