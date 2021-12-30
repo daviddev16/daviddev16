@@ -4,6 +4,7 @@
 - Using _p5.js_ framework for **math visualization** and **fun** 😈.
 - Also developing **games** and **math visualization** with Unity/_CSharp_.
 
+<!--
 #### _Known or studying_: Frameworks - Languages - IDEs - Editors
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
@@ -22,6 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Spacer](https://img.shields.io/badge/%7C-black)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+-->
 ##
 <a href="https://github.com/daviddev16/">
   <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby" />
