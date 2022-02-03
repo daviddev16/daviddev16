@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-- Currently working on "MusicBox" a Java-based discord bot for music purpose. 
+- Currently working on "MusicBox". 
 - Using _p5.js_ framework for **math visualization** and **fun** 😈.
 - Also developing **games** and **math visualization** with Unity/_CSharp_.
 
 <!--
+
 #### _Known or studying_: Frameworks - Languages - IDEs - Editors
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
