@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Welcome to my page! here you will find some of my personal projects.
+Welcome to my page! here you will find some of my personal projects and tests. I usually make some projects related to Data Science and Mathematical visualization.
+
+
 
 
 <a href="https://github.com/daviddev16/">
