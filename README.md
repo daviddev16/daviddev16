@@ -15,11 +15,11 @@ Beginning my journey to become a *Software* and *Network* Engineer.
  - **CSharp** *[ Unity / Windows Form ]*
  - **Web** *[ JS / HTML / CSS / P5JS ]*
  - **Databases** *[ PostgreSQL / MongoDB / SQL Server ]*
- - **Network** *[ OSI-TCP Model / Firewall / Proxy / Switching / Routing / Troubleshooting / IPv4 Subnetting ]*
+ - **Network** *[ OSI-TCP Model / Firewall / Proxy / Switching / Routing / Troubleshooting / IPv4 Subnetting / IT Operations ]*
     - **Cloud Computing** *[ AWS with EC2, S3, RDS, Azure ]*
     - **On-premise** *[ Servers / DHCP / DNS / AD DS ]*
     - **Virtualization** *[ Hyper-V / VMware / Virtual Box ]*
-    - **OS** *[ Windows Server / Ubuntu / IT Operations ]*
+    - **OS** *[ Windows Server / Ubuntu / Kali ]*
 
 
 
