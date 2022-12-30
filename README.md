@@ -44,7 +44,9 @@ Here is some of my projects you can test now.
 - [Vector fields](https://github.com/daviddev16/vector-fields)
   - *Create patterns with different math equations to build vector fields (not optimized, I might do a 2nd version of it)*
 - [Quadratic bezier curve](https://github.com/daviddev16/quadratic-bezier-p5js)
-  - *A visual representation of quadratic bézier curve*
+  - *A visual representation of quadratic bézier curve*7
+- [Data Science Study](https://github.com/daviddev16/data-science)
+  - *Repository of data science content and algorithms*
 
 
 ## ⚜️ Certifications
