@@ -46,7 +46,7 @@ Here is some of my projects you can test now.
 - [Quadratic bezier curve](https://github.com/daviddev16/quadratic-bezier-p5js)
   - *A visual representation of quadratic bézier curve*7
 - [Data Science Study](https://github.com/daviddev16/data-science)
-  - *Repository of data science content and algorithms*
+  - *Repository for data science content and algorithms*
 
 
 ## ⚜️ Certifications
