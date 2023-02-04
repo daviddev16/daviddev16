@@ -26,13 +26,11 @@ Beginning my journey to become a *Software* and *Network* Engineer.
 
 ## 🖨 GitHub Activity
 
-<a href="https://github.com/daviddev16/">
-  <img width=410 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby" />
-</a>
-<a href="https://github.com/daviddev16/">
+<div>
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=great-gatsby" />
-</a>
-
+  <img width=400 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&row=1&theme=onedark" />
+</div>
 
 ## 🪐 Available Projects
 
@@ -62,8 +60,5 @@ Here is some of my projects you can test now.
 
 <html><br></html>
 
-<br>
-<a href="https://github.com/daviddev16/">
-  <img width=600 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16" />
-</a>
+
 
