@@ -64,6 +64,6 @@ Here is some of my projects you can test now.
 
 <br>
 <a href="https://github.com/daviddev16/">
-  <img width=600 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&theme=onedark" />
+  <img width=600 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16" />
 </a>
 
