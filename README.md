@@ -27,11 +27,12 @@ Beginning my journey to become a *Software* and *Network* Engineer.
 ## 🖨 GitHub Activity
 
 <a href="https://github.com/daviddev16/">
-  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby" />
+  <img width=410 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby" />
 </a>
 <a href="https://github.com/daviddev16/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=great-gatsby" />
 </a>
+
 
 ## 🪐 Available Projects
 
@@ -60,3 +61,9 @@ Here is some of my projects you can test now.
 | NSE1 & NSE2 (Network Security Associate) |         Fortinet         |
 
 <html><br></html>
+
+<br>
+<a href="https://github.com/daviddev16/">
+  <img width=600 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&theme=onedark" />
+</a>
+
