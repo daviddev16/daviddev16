@@ -19,7 +19,7 @@ Beginning my journey to become a *Software* and *Network* Engineer.
     - **Cloud Computing** *[ AWS with EC2, S3, RDS, Azure ]*
     - **On-premise** *[ Servers / DHCP / DNS / AD DS ]*
     - **Virtualization** *[ Hyper-V / VMware / Virtual Box ]*
-    - **OS** *[ Windows Server / Ubuntu / Kali ]*
+    - **OS** *[ Windows Server / Ubuntu / Manjaro / Kali ]*
 
 
 
