@@ -27,8 +27,8 @@ Beginning my journey to become a *Software* and *Network* Engineer.
 ## 🖨 GitHub Activity
 
 <div>
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&theme=great-gatsby" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=ayu-mirage" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&hide=css,scss,html&theme=ayu-mirage" />
   <img width=400 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&row=1&theme=onedark" />
 </div>
 
