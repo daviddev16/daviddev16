@@ -1,13 +1,7 @@
 
 # Hello world 👋
 
-Beginning my journey to become a *Software* and *Network* Engineer.
-
-## Informations about me
-👩‍💻 Currently working on Alterdata Software 
-*(not related to software development)*
-
-🧠 I'm learning about networking architecture and software engineering as a full-stack developer. 
+Ny name is David Duarte Pinheiro, i am learning about networking architecture and software engineering as a full-stack developer.
 
 ## 🛠 Skills
 
