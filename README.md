@@ -1,7 +1,7 @@
 
 # Hello world 👋
 
-Ny name is David Duarte Pinheiro, i am learning about networking architecture and software engineering as a full-stack developer.
+Studying about Software and Network Engineering
 
 ## 🛠 Skills
 
@@ -33,13 +33,13 @@ Here is some of my projects you can test now.
 - [Message to Hexadecimal Sequence](https://daviddev16.github.io/text2binary-hex?type=hex)
   - *Visual representation of how ASCII digits can be represented as a hexadecimal sequence.*
 - [Message to Binary Sequence](https://daviddev16.github.io/text2binary-hex?type=binary)
-  - *Visual representation of how ASCII digits can be represented as a binary sequence (it is using 2 bytes [16-bit] mask though)*
+  - *Visual representation of how ASCII digits can be represented as a binary sequence*
 - [Vector fields](https://github.com/daviddev16/vector-fields)
-  - *Create patterns with different math equations to build vector fields (not optimized, I might do a 2nd version of it)*
+  - *Create patterns with math equations to make visual vector fields (not optimized, I might do a 2nd version of it)*
 - [Quadratic bezier curve](https://github.com/daviddev16/quadratic-bezier-p5js)
-  - *A visual representation of quadratic bézier curve*7
+  - *A visual representation of quadratic bézier curve*
 - [Data Science Study](https://github.com/daviddev16/data-science)
-  - *Repository for data science content and algorithms*
+  - *Repository realated to data science stuff and algorithms*
 
 
 ## ⚜️ Certifications
