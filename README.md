@@ -1,7 +1,7 @@
 
 # Hello world 👋
 
-Studying about Software and Network Engineering
+Becoming a Software and Network Engineer
 
 ## 🛠 Skills
 
