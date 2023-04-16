@@ -1,6 +1,6 @@
 
 ### David Duarte Pinheiro
-#### 19 years old Junior Software Engineer / Pursuing a degree in Computer Science
+#### 19 years old Junior Software Engineer / Computer Science 1/8
 ##
 
 <div>
