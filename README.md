@@ -34,6 +34,16 @@
   </ul>
 </details>
 
+<details>
+  <summary>🔹 Certifications</summary>
+  <br>
+  <ul>
+    <li>Cisco IT Essentials</li>
+    <li>Java API REST / Backend development on Tech4me</li>
+    <li>Fortinet NSE1 & NSE2 Network Security Associate</li>
+  </ul>
+</details>
+
 ### GitHub Activity
 <div>
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=github_dark" />
