@@ -11,7 +11,7 @@
     <li>Java 🥇</li>
     <li>Csharp 🥈</li>
     <li>JavaScript</li>
-    <li>C/C++</li>
+    <li>C</li>
     <li>Python</li>
     <li>Shell scripting</li>
   </ul>
