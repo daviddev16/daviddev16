@@ -25,8 +25,7 @@
     <li>API REST with Spring</li>
     <li>Linux / Windows Server Operations</li>
     <li>MongoDB / PostgreSQL / SQL Server</li>
-    <li>Infraestruture and Network Services</li>
-    <li>Switches / Routers / Firewalls / DNS / DHCP servers</li>
+    <li>Infraestruture and Network Services<br><i>Switches / Routers / Firewalls / DNS / DHCP servers</i></li>
     <li>Docker Images / Containers</li>
     <li>Cyber Security Basics</li>
     <li>Zabbix Monitoring</li>
