@@ -23,9 +23,10 @@
   <ul>
     <li>Cloud Computing on AWS</li>
     <li>API REST with Spring</li>
+    <li>Insomnia and Postman for testing</li>
     <li>Linux / Windows Server Operations</li>
     <li>MongoDB / PostgreSQL / SQL Server</li>
-    <li>Infraestruture and Network Services<br><i>Switches / Routers / Firewalls / DNS / DHCP servers</i></li>
+    <li>Infraestruture and Network Services<br><i>Virtualization / Switches / Routers / Firewalls / DNS / DHCP servers</i></li>
     <li>Docker Images / Containers</li>
     <li>Cyber Security Basics</li>
     <li>Zabbix Monitoring</li>
