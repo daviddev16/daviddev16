@@ -1,8 +1,9 @@
 
-# 👩🏻‍🚀 David Duarte Pinheiro
-### 19 years old Junior Software Engineer / Computer Science 1/8 
-<h7>🌐 Working on custom network services, softwares, API REST and Infraestructure automations with code</h5>
-##
+<h1>👩🏻‍🚀 David Duarte Pinheiro</h1>
+<h3>🎓 Software Engineer  •  DevOps  •  Network Admin</h3>
+<h7>I'm a 19 years old programmer who likes to inovate and do cool things with code. I'm currently working on custom network services, softwares, API REST and Infraestructure automations with code.</h5>
+<br>
+<h1></h1>
 
 <details>
   <summary>🔹 Programming languages</summary>
@@ -22,12 +23,14 @@
   <br>
   <ul>
     <li>Cloud Computing on AWS</li>
+    <li>NGINX</li>
     <li>API REST with Spring</li>
     <li>Insomnia and Postman for testing</li>
     <li>Linux / Windows Server Operations</li>
     <li>MongoDB / PostgreSQL / SQL Server</li>
     <li>Infraestruture and Network Services<br><i>Virtualization / Switches / Routers / Firewalls / DNS / DHCP servers</i></li>
     <li>Docker Images / Containers</li>
+    <li>OpenVPN</li>
     <li>Cyber Security Basics</li>
     <li>Zabbix Monitoring</li>
     <li>Virtualization</li>
