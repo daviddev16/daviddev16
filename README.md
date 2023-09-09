@@ -1,7 +1,7 @@
 
 <h1>👩🏻‍🚀 David Duarte Pinheiro</h1>
 <h3>🎓 Software Engineer  •  DevOps  •  Network Admin</h3>
-<h7>I'm a 19 years old programmer who likes to inovate and do cool things with code. I'm currently working on custom network services, softwares, API REST and Infraestructure automations with code.</h5>
+<h7>I'm a 20 years old programmer who likes to inovate and do cool things with code. I'm currently working on custom network services, softwares, API REST and Infraestructure automations with code.</h5>
 <br>
 <h1></h1>
 
