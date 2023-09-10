@@ -53,7 +53,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&hide=css,scss,html&theme=github_dark" /><br>
   <img width=705 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&row=1&theme=radical" />
 </div>
-
+<br>
 <!--START_SECTION:waka-->
 
 ```txt
