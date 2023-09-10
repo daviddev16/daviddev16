@@ -52,8 +52,6 @@
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=github_dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&hide=css,scss,html&theme=github_dark" /><br>
   <img width=705 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&row=1&theme=radical" />
+  <img width=705 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=daviddev16&show_icons=true&theme=github_dark" />
 </div>
 <br>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daviddev16)](https://github.com/anuraghazra/github-readme-stats)
-
