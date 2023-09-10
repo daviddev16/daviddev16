@@ -55,6 +55,7 @@
 </div>
 <br>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daviddev16)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
