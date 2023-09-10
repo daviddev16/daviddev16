@@ -54,6 +54,8 @@
   <img width=705 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&row=1&theme=radical" />
 </div>
 <br>
+
+
 <!--START_SECTION:waka-->
 
 ```txt
