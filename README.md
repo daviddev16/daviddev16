@@ -50,8 +50,8 @@
 ### GitHub Activity
 <div>
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=github_dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&layout=compact&hide=css,scss,html&theme=github_dark" /><br>
-  <img width=705 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&row=1&theme=radical" />
-  <img width=705 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=daviddev16&show_icons=true&theme=github_dark" />
+  <img width=209 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&langs_count=12&layout=compact&hide=css,scss,html,shaderlab,hlsl,perl,cobol&theme=github_dark" /><br>
+  <img width=614 align="center" src="https://github-profile-trophy.vercel.app/?username=daviddev16&row=1&theme=radical" />
+  <img width=614 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=daviddev16&show_icons=true&theme=github_dark" />
 </div>
 <br>
