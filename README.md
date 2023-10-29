@@ -3,11 +3,12 @@
 <h3>🎓 Software Engineer  •  DevOps  •  Network Admin</h3>
 
 
-<h5>
+<span>
 I'm a 20-year-old programmer with a deep passion for coding and a strong desire to innovate. My current focus lies in the realms of network services and RESTful APIs, and I'm currently in the second period of my computer science degree.
 One of my favorite aspects of technology is understanding how information and data traverse the globe through the vast network of the internet. It's a concept that continually fascinates me and serves as a driving force for my career aspirations.
 Specifically, I'm dedicated to becoming a backend software engineer, a role that allows me to craft the foundational components of applications and systems. I'm excited about the opportunities this path offers to shape the digital world and create solutions that make a difference.
-<h5>
+<span>
+<br>
 <a href="https://daviddev16.github.io/portifolio/">
   <img width=70 align="center" src="https://img.shields.io/badge/PORTFOLIO-blue"/>
 </a>
