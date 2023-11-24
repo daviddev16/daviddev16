@@ -9,6 +9,7 @@ One of my favorite aspects of technology is understanding how information and da
 Specifically, I'm dedicated to becoming a backend software engineer, a role that allows me to craft the foundational components of applications and systems. I'm excited about the opportunities this path offers to shape the digital world and create solutions that make a difference.
 <span>
 <br>
+<br>
 <a href="https://daviddev16.github.io/portifolio/">
   <img width=70 align="center" src="https://img.shields.io/badge/PORTFOLIO-blue"/>
 </a>
@@ -32,7 +33,7 @@ Specifically, I'm dedicated to becoming a backend software engineer, a role that
   <br>
   <ul>
     <li>Cloud Computing on AWS</li>
-    <li>Insomnia and Postman for testing</li>
+    <li>Insomnia and Postman</li>
     <li>Linux / Windows Server Operations</li>
     <li>MongoDB / PostgreSQL / SQL Server</li>
     <li>Infraestruture and Network Services</li>
