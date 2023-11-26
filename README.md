@@ -64,7 +64,7 @@
 ![Daviddev16's Graph](https://github-readme-activity-graph.vercel.app/graph?username=daviddev16&custom_title=Recentemente&bg_color=0D1117&color=f7d745&line=f7d745&point=f7d745&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <div>
-<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby"/><img width=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&langs_count=12&layout=compact&hide=css,scss,html,shaderlab,hlsl,perl,cobol&theme=great-gatsby" /> 
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby"/><img width=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&langs_count=12&layout=compact&hide=css,scss,html,shaderlab,hlsl,perl,cobol&theme=great-gatsby" /> 
 </div>
 <h6 align="left">Não muito ativo aqui! Mas estou sempre programando =)</h6>
 
