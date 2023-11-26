@@ -5,22 +5,6 @@
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Troféus:</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=daviddev16&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=5">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=daviddev16&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=5&title=Issues,Organizations,Stars,Followers">
-</div>
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
@@ -67,6 +51,22 @@
 <img width=455 align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev16&show_icons=true&theme=great-gatsby"/><img width=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev16&langs_count=12&layout=compact&hide=css,scss,html,shaderlab,hlsl,perl,cobol&theme=great-gatsby" /> 
 </div>
 <h6 align="left">Não muito ativo aqui! Mas estou sempre programando =)</h6>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Troféus:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=daviddev16&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=5">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=daviddev16&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=5&title=Issues,Organizations,Stars,Followers">
+</div>
+<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
