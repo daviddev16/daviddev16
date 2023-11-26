@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Me Chamo David Duarte Pinheiro!</h1>
+<h1 align="center">Olá 👋 Me Chamo David Duarte!</h1>
 <h3 align="center">Sou um desenvolvedor de Software do Brasil</h3>
 <p align="center">Sou autodidata e muito interessado nas tecnologias de comunicação e transmissão de dados e linguagens de programação; Com um desejo muito grande de inovar e trazer ferramentas e softwares que sejam realmente utéis no dia-a-dia; Atualmente estudo ciência da computação na UNIFESO (Centro Universitário Serra dos Órgãos); Estudo para me tornar um desenvolvedor de Software Full Stack e Web, focando no Backend e Devops. 🛠️</p>
 <p align="center"> 
