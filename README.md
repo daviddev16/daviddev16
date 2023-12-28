@@ -29,8 +29,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Com o que eu trabalho?</h3>
-<h4 align="left">Aqui está algumas das ferramentas que utilizo</h4>
+<h3 align="left">Algumas ferramentas e linguagens que já utilizei ou utilizo. </h3>
 <br>
 
 <p align="left">
