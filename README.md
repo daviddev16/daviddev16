@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋 Me Chamo David Duarte!</h1>
 <h3 align="center">Sou um desenvolvedor de Software</h3>
-<p align="center">Sou autodidata e muito interessado nas tecnologias de comunicação e transmissão de dados e linguagens de programação; Com um desejo muito grande de inovar e trazer ferramentas e softwares que sejam realmente utéis no dia-a-dia; Atualmente estudo ciência da computação na UNIFESO (Centro Universitário Serra dos Órgãos); Estudo para me tornar um desenvolvedor de Software Full Stack e Web, focando no Backend e Devops. 🛠️</p>
+<p align="center">Sou autodidata e muito interessado nas tecnologias de comunicação e transmissão de dados e linguagens de programação; Com um desejo muito grande de inovar e trazer ferramentas e softwares que sejam realmente utéis no dia-a-dia; Atualmente estudo ciência da computação no Centro Universitário Serra dos Órgãos (UNIFESO); Estudo para me tornar um desenvolvedor de Software Full Stack e Web, focando no Backend e Devops. 🛠️</p>
 <p align="center"> 
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -17,8 +17,6 @@
 - ❤️ Vamos conversar sobre **Java**, **Delphi**, **Csharp** e **PostgreSQL**;
 
 - 📫 Meu contato é **davidduartepinheiro@gmail.com**;
-
-- 😁 __Curiosidade:__ Ganhei uma camisa do PostgreSQL 🐘 no trabalho;
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
